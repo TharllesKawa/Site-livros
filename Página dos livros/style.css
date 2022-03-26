@@ -22,6 +22,7 @@ body {
     align-items: center;
     justify-content: center;
     font-size: 1em;
+    padding-bottom: 20px;
 }
 
 .botão-voltar {
@@ -43,4 +44,9 @@ body {
 .botão-voltar button:hover {
     background-color: transparent;
     color: #000;
+}
+
+.livro {
+    height: 75vh;
+    width: 70vw;
 }
